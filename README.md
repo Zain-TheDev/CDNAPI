@@ -74,13 +74,6 @@ cd CDNAPI
 | PUT    | /api/users/{id} | Update user details |
 | DELETE | /api/users/{id} | Delete a user |
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch-name`.
-3. Commit your changes: `git commit -m "Add new feature"`.
-4. Push to the branch: `git push origin feature-branch-name`.
-5. Submit a pull request.
-
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
