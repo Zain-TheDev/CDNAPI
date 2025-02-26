@@ -51,7 +51,7 @@ cd CDNAPI
 ### Frontend Setup
 1. Navigate to the frontend project folder:
    ```sh
-   cd cdn-client
+   cd clientapp
    ```
 2. Install dependencies:
    ```sh
